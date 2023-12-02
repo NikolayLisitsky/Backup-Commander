@@ -1,6 +1,6 @@
 import json
-from class_vk import VK
-from class_yandex import Yandex
+from Code.class_vk import VK
+from Code.class_yandex import Yandex
 
 print('Введите свой vk_id:')
 user_id = int(input())
